@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Homework 2
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Welcome to UC Berkeley, the number one public univerity in the nation. Enjoy exploring the campus and be prepared for hills. 
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
